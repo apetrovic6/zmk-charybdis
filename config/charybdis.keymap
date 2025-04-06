@@ -120,10 +120,10 @@
         base_layer {
             display-name = "Alpha";
             bindings = <
-  &kp V        &kp W        &kp G        &kp M        &kp J              &ht AMPS SEMICOLON  &ht UNDERSCORE PERIOD  &ht SINGLE_QUOTE DOUBLE_QUOTES  &ht QUESTION SLASH  &ht EXCLAMATION EQUAL
-  &hm LGUI S   &hm LALT N   &hm LSHFT T  &hm LCTRL H  &kp K              &ht MINUS COMMA     &hm RCTRL A            &hm RSHFT E                     &hm LALT I          &hm RGUI C
-  &mt LC(Z) F  &mt LC(X) P  &mt LC(C) D  &mt LC(V) L  &kp X              &ht PIPE MINUS      &kp U                  &kp O                           &kp Y               &kp B
-                            &lt 7 TAB    &lt SYM R    &lt NUMFN ENTER    &lt NAV SPACE       &lt UTIL ESC
+  &kp V        &kp W        &kp G        &kp M        &kp J              &ht COLON SEMICOLON  &ht UNDERSCORE PERIOD  &ht SINGLE_QUOTE DOUBLE_QUOTES  &ht QUESTION SLASH  &ht EXCLAMATION EQUAL
+  &hm LGUI S   &hm LALT N   &hm LSHFT T  &hm LCTRL H  &kp K              &ht MINUS COMMA      &hm RCTRL A            &hm RSHFT E                     &hm LALT I          &hm RGUI C
+  &mt LC(Z) F  &mt LC(X) P  &mt LC(C) D  &mt LC(V) L  &kp X              &ht PIPE MINUS       &kp U                  &kp O                           &kp Y               &kp B
+                            &lt 7 TAB    &lt SYM R    &lt NUMFN ENTER    &lt NAV SPACE        &lt UTIL ESC
             >;
         };
 
